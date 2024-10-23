@@ -1,0 +1,11 @@
+{
+  "name": "QR Code Generator",
+  "id": "figma-qr-generator",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "index.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
